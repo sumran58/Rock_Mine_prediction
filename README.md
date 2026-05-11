@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.0%2B-orange?style=for-the-badge&logo=scikit-learn)
-![Colab](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
+![Colab](https://img.shields.io/badge/Colab-Notebook-orange?style=for-the-badge&logo=colab)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
